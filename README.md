@@ -1,1 +1,3 @@
-# helloworld2021_p1
+# maven-project
+
+Simple Maven Project
